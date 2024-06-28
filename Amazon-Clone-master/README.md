@@ -35,6 +35,6 @@ You can view the site here
 
 ## Author
 
-Ozan Gürsucu (ozngrsc)
+Yash Dhamak
 
 <img src="src/images/screenshot.png"  width= 500px height= 400px>
